@@ -1,0 +1,36 @@
+PS C:\Users\Leo\Documents\atividade\atividade3> cargo run
+   Compiling atividade3 v0.1.0 (C:\Users\Leo\Documents\atividade\atividade3)
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.26s
+     Running `target\debug\atividade3.exe`
+--- Testes
+--- Ex01: Some(10)
+--- Ex02: 60
+--- Ex03: Some(2)
+--- Ex04:
+1 + 4 = 5
+2 + 3 = 5
+--- Ex05:
+1
+2
+3
+(1, 1)
+(1, 2)
+(1, 3)
+(2, 1)
+(2, 2)
+(2, 3)
+(3, 1)
+(3, 2)
+(3, 3)
+--- Ex06:
+1
+2
+4
+8
+16
+32
+--- Ex07: 8
+--- Ex08: [1, 2, 3, 4, 5]
+--- Ex09: [[19, 22], [43, 50]]
+--- Ex10: [1, 2, 3, 5, 9]
+PS C:\Users\Leo\Documents\atividade\atividade3>
